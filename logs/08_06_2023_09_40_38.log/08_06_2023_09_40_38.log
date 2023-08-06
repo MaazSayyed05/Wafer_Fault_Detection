@@ -1,0 +1,12 @@
+[2023-08-06 09:40:39,304] 10 root - INFO - Training Pipeline Initiated.
+[2023-08-06 09:40:39,305] 77 root - INFO - Data Ingestion Method Starts
+[2023-08-06 09:40:39,342] 81 root - INFO - Dataset read as pandas DataFrame
+[2023-08-06 09:40:39,465] 86 root - INFO - Train Test Split
+[2023-08-06 09:40:39,621] 93 root - INFO - Ingestion of Data is completed
+[2023-08-06 09:40:39,810] 53 root - INFO - Read train-test data.
+[2023-08-06 09:40:39,810] 55 root - INFO - Obtain Data Transformation Object
+[2023-08-06 09:40:39,810] 29 root - INFO - Iniated Data Tranformation.
+[2023-08-06 09:40:39,810] 8 root - INFO - Object saving started.
+[2023-08-06 09:40:39,811] 17 root - INFO - Error to save object.
+[2023-08-06 09:40:39,813] 44 root - INFO - Error found in Data Transformation.
+[2023-08-06 09:40:39,813] 87 root - INFO - Error in Data Transformation

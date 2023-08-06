@@ -1,0 +1,24 @@
+[2023-08-06 10:01:55,413] 19 root - INFO - Initiate Data Transformation.
+[2023-08-06 10:01:55,468] 10 root - INFO - Training Pipeline Initiated.
+[2023-08-06 10:01:55,468] 77 root - INFO - Data Ingestion Method Starts
+[2023-08-06 10:01:55,505] 81 root - INFO - Dataset read as pandas DataFrame
+[2023-08-06 10:01:55,588] 86 root - INFO - Train Test Split
+[2023-08-06 10:01:55,738] 93 root - INFO - Ingestion of Data is completed
+[2023-08-06 10:01:55,904] 54 root - INFO - Read train-test data.
+[2023-08-06 10:01:55,904] 56 root - INFO - Obtain Data Transformation Object
+[2023-08-06 10:01:55,904] 30 root - INFO - Iniate Data Tranformation Pipeline.
+[2023-08-06 10:01:55,905] 10 root - INFO - Object saving started.
+[2023-08-06 10:01:55,909] 18 root - INFO - Object saving completed.
+[2023-08-06 10:01:55,909] 39 root - INFO - Data Transformation Pipeline Completed.
+[2023-08-06 10:01:55,909] 58 root - INFO - Data Transformation Object fetched successfully.
+[2023-08-06 10:01:55,914] 70 root - INFO - Dependent and Independent features extracted successfully.
+[2023-08-06 10:01:56,015] 78 root - INFO - Data Transformation Complete.
+[2023-08-06 10:01:56,015] 10 root - INFO - Object saving started.
+[2023-08-06 10:01:56,016] 18 root - INFO - Object saving completed.
+[2023-08-06 10:01:56,016] 85 root - INFO - Preproceesor Pickle File created successfully.
+[2023-08-06 10:01:56,017] 25 root - INFO - Model Training Initiated.
+[2023-08-06 10:01:56,017] 27 root - INFO - Model Evaluation Initiated.
+[2023-08-06 10:01:56,558] 48 root - INFO - Model Evaluation Completed.
+[2023-08-06 10:01:56,559] 10 root - INFO - Object saving started.
+[2023-08-06 10:01:56,559] 18 root - INFO - Object saving completed.
+[2023-08-06 10:01:56,559] 42 root - INFO - Pickle File of Model created Successfully.

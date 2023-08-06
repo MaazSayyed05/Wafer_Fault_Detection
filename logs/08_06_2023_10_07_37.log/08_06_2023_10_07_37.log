@@ -1,0 +1,23 @@
+[2023-08-06 10:07:38,962] 10 root - INFO - Training Pipeline Initiated.
+[2023-08-06 10:07:38,962] 77 root - INFO - Data Ingestion Method Starts
+[2023-08-06 10:07:39,013] 81 root - INFO - Dataset read as pandas DataFrame
+[2023-08-06 10:07:39,131] 86 root - INFO - Train Test Split
+[2023-08-06 10:07:39,260] 93 root - INFO - Ingestion of Data is completed
+[2023-08-06 10:07:39,261] 52 root - INFO - Initiate Data Transformation.
+[2023-08-06 10:07:39,431] 56 root - INFO - Read train-test data.
+[2023-08-06 10:07:39,431] 59 root - INFO - Iniate Data Tranformation Pipeline.
+[2023-08-06 10:07:39,431] 39 root - INFO - Data Transformation Pipeline Completed.
+[2023-08-06 10:07:39,432] 61 root - INFO - Data Transformation Object fetched successfully.
+[2023-08-06 10:07:39,439] 73 root - INFO - Dependent and Independent features extracted successfully.
+[2023-08-06 10:07:39,552] 81 root - INFO - Data Transformation Complete.
+[2023-08-06 10:07:39,552] 10 root - INFO - Object saving started.
+[2023-08-06 10:07:39,553] 18 root - INFO - Object saving completed.
+[2023-08-06 10:07:39,554] 88 root - INFO - Preproceesor Pickle File created successfully.
+[2023-08-06 10:07:39,554] 25 root - INFO - Model Training Initiated.
+[2023-08-06 10:07:39,554] 27 root - INFO - Model Evaluation Initiated.
+[2023-08-06 10:07:40,115] 48 root - INFO - Model Evaluation Completed.
+[2023-08-06 10:07:40,115] 38 root - INFO - Best Model: 
+[2023-08-06 10:07:40,115] 39 root - INFO - GaussianNaiveBayes
+[2023-08-06 10:07:40,116] 10 root - INFO - Object saving started.
+[2023-08-06 10:07:40,116] 18 root - INFO - Object saving completed.
+[2023-08-06 10:07:40,116] 44 root - INFO - Pickle File of Model created Successfully.
